@@ -1,1 +1,29 @@
+body{ 
+  font-family: georgia, serif
+    background-color:
+}
+header{
+  background-color: black
+    padding:
+  top:
+  postition: sticky;
+}
+.nav container{
+    display:
+  align-items: right;
+}
+.nav-links{
+  list-style:
+    display:
+  gap:
+  padding:
+}
+.nav-links li a{
+  color:
+    font-weight:
+  transition: color 0.3s ease;
+}
+.nav-links li a: hover{
+  color: 
+}
 
