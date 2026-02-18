@@ -9,8 +9,8 @@ header{
   postition: sticky;
 }
 .nav container{
-    display:
-  align-items: right;
+    display: flex
+  align-items: center;
 }
 .nav-links{
   list-style:
