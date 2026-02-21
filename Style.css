@@ -14,21 +14,11 @@ header{
   align-items: center;
 }
 
-.nav-links{
-  list-style:
-    display:
-  gap:
-  padding:
-}
-
 .nav-links li a{
   color: #ffc0cb;
   transition: color 0.3s ease;
 }
 
-.nav-links li a: hover{
-  color: 
-}
 
 .Our-Favorites-section{
   position: relative;
