@@ -79,6 +79,12 @@ header{
   padding: 60px 5vw;
 }
 
+
+.best-sellers-section{
+  position: relative;
+  padding: 60px 5vw;
+}
+
 .section-title{
 text-transform: capitalize;
   font-size: 30px;
@@ -110,6 +116,7 @@ text-transform: capitalize;
   bottom: 20px;
   left: 50%
   color: #000;
+  transform: translateX(-50%);
 }
 
 .product-card:hover .product-img{
