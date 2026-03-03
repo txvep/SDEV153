@@ -75,14 +75,12 @@ header{
 }
 
 .our-favorites-section{
-  display: flex;
   position: relative;
   padding: 60px 5vw;
 }
 
 
 .best-sellers-section{
-  display: flex;
   position: relative;
   padding: 60px 5vw;
 }
