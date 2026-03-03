@@ -75,12 +75,14 @@ header{
 }
 
 .our-favorites-section{
+  display: flex;
   position: relative;
   padding: 60px 5vw;
 }
 
 
 .best-sellers-section{
+  display: flex;
   position: relative;
   padding: 60px 5vw;
 }
@@ -99,7 +101,7 @@ text-transform: capitalize;
 .product-card{
   width: 300px;
   height: 300px;
-  overflow: hidden;
+  overflow: visible;
   position: relative;
 }
 
