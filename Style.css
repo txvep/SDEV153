@@ -4,7 +4,7 @@ body{
 
 header{
   background-color: #FFFFFF;
-    font-color: #000;
+    font-color: #00000;
   padding: 0;
   postition: sticky;
 }
@@ -21,7 +21,7 @@ header{
 }
 
 .navbar.bg{
-  background: #fff;
+  background: #ffffff;
 }
 
 .links-container{
@@ -66,7 +66,7 @@ header{
 
 .cart-item-count{
   font-family: georgia, serif;
-  color: #000;
+  color: #000000;
   padding: 5px;
   font-size: 15px;
   postion: absolute;
@@ -116,7 +116,7 @@ text-transform: capitalize;
   font-size: 25px;
   bottom: 20px;
   left: 50%
-  color: #000;
+  color: #000000;
   transform: translateX(-50%);
 }
 
@@ -125,7 +125,7 @@ text-transform: capitalize;
 }
   
 footer{
-  background-color: #000;
+  background-color: #000000;
   padding: 80px 0;
 }
   
