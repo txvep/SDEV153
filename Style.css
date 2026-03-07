@@ -1,12 +1,26 @@
 body{ 
   font-family: georgia, serif;
+	padding-top: 56px;
 }
 
 header{
   background-color: #FFFFFF;
     font-color: #000;
   padding: 0;
-  postition: sticky;
+}
+
+.navbar-brand{
+	color: white;
+}
+
+.navbar-brand:hover{
+	color: #ccc;
+}
+
+.navbar-brand img{
+	width: 50px;
+	height: auto;
+	margin-right: 10px;
 }
 
 .navbar{
@@ -211,6 +225,7 @@ p{
   font-weight: 300;
   display: inline-block;
   transition: all 0.3s ease;
+  color: #fff;
 }
 
 .footer-col li{
