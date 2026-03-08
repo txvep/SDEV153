@@ -202,11 +202,12 @@ ul{
   display: inline-block;
   height: 40px;
   width: 40px;
+  background-color: RGB(255, 255, 255, 0.2);
   margin: 0 10px 10px 0;
   text-align: center;
   line-height: 40px;
   border-radius: 50%;
-  color: #ffc0cb;
+  color: #fff;
   transition: all 0.5s ease;
 }
   
@@ -229,11 +230,13 @@ ul{
 p{
   font-size: 16px;
   margin-bottom: 10px;
+  color: #fff;
   text-decoration: none;
   font-weight: 300;
+  color: #bbbbbb;
   display: inline-block;
   transition: all 0.3s ease;
-  color: #fff;
+
 }
 
 .footer-col li{
