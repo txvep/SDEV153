@@ -8,6 +8,12 @@ header{
     font-color: #000;
 }
 
+.header-img{
+	width: 100%;
+	height: auto;
+	
+}
+
 .header-section{
 	text-align: center;
 }
