@@ -6,7 +6,7 @@ body {
             color: #1f2937;
         }
         .header {
-            background-color: #111827;
+            background-color: #fafafa;
             color: #ffffff;
             padding: 40px 20px;
             text-align: center;
@@ -24,7 +24,6 @@ body {
         }
         .product-card {
             background-color: #ffffff;
-            border-radius: 16px;
             box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
             overflow: hidden;
             text-align: center;
@@ -40,7 +39,6 @@ body {
             height: auto;
             max-height: 220px;
             object-fit: cover;
-            border-radius: 12px;
             margin-bottom: 16px;
         }
         .product-title {
